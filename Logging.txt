@@ -1,0 +1,40 @@
+juil. 23, 2017 9:33:10 AM be.ipl.archpae.utils.AppContext newInstance
+INFO: newInstance be.ipl.archpae.dal.DALManager
+juil. 23, 2017 9:33:11 AM be.ipl.archpae.utils.AppContext newInstance
+INFO: newInstance be.ipl.archpae.bizz.factories.UserFactory
+juil. 23, 2017 9:33:11 AM be.ipl.archpae.utils.AppContext newInstance
+INFO: newInstance be.ipl.archpae.dal.dao.UserDAO
+juil. 23, 2017 9:33:16 AM be.ipl.archpae.ihm.DispatcherServlet doGet
+INFO: 0:0:0:0:0:0:0:1/ |  200
+juil. 23, 2017 9:33:16 AM be.ipl.archpae.ihm.DispatcherServlet doGet
+INFO: 0:0:0:0:0:0:0:1/css/style.css |  200
+juil. 23, 2017 9:33:16 AM be.ipl.archpae.ihm.DispatcherServlet doGet
+INFO: 0:0:0:0:0:0:0:1/assets/font-awesome/css/font-awesome.min.css |  200
+juil. 23, 2017 9:33:16 AM be.ipl.archpae.ihm.DispatcherServlet doGet
+INFO: 0:0:0:0:0:0:0:1/assets/bootstrap/dist/css/bootstrap.min.css |  200
+juil. 23, 2017 9:33:16 AM be.ipl.archpae.ihm.DispatcherServlet doGet
+INFO: 0:0:0:0:0:0:0:1/assets/jquery-cookie/jquery.cookie.js |  200
+juil. 23, 2017 9:33:16 AM be.ipl.archpae.ihm.DispatcherServlet doGet
+INFO: 0:0:0:0:0:0:0:1/assets/sb-admin-2.css |  200
+juil. 23, 2017 9:33:16 AM be.ipl.archpae.ihm.DispatcherServlet doGet
+INFO: 0:0:0:0:0:0:0:1/assets/bootstrap/dist/js/bootstrap.min.js |  200
+juil. 23, 2017 9:33:16 AM be.ipl.archpae.ihm.DispatcherServlet doGet
+INFO: 0:0:0:0:0:0:0:1/js/congrats.js |  200
+juil. 23, 2017 9:33:16 AM be.ipl.archpae.ihm.DispatcherServlet doGet
+INFO: 0:0:0:0:0:0:0:1/assets/metisMenu/dist/metisMenu.min.css |  200
+juil. 23, 2017 9:33:16 AM be.ipl.archpae.ihm.DispatcherServlet doGet
+INFO: 0:0:0:0:0:0:0:1/js/login.js |  200
+juil. 23, 2017 9:33:16 AM be.ipl.archpae.ihm.DispatcherServlet doGet
+INFO: 0:0:0:0:0:0:0:1/assets/metisMenu/dist/metisMenu.min.js |  200
+juil. 23, 2017 9:33:16 AM be.ipl.archpae.ihm.DispatcherServlet doGet
+INFO: 0:0:0:0:0:0:0:1/frontend.js |  200
+juil. 23, 2017 9:33:16 AM be.ipl.archpae.ihm.DispatcherServlet doGet
+INFO: 0:0:0:0:0:0:0:1/assets/jquery/dist/jquery.min.js |  200
+juil. 23, 2017 9:33:16 AM be.ipl.archpae.ihm.DispatcherServlet doGet
+INFO: 0:0:0:0:0:0:0:1/assets/sb-admin-2.js |  200
+juil. 23, 2017 9:33:16 AM be.ipl.archpae.ihm.DispatcherServlet doPost
+INFO: 0:0:0:0:0:0:0:1/dispatch | {"action":["user/islogged"]} 200 => false
+juil. 23, 2017 9:33:16 AM be.ipl.archpae.ihm.DispatcherServlet doGet
+INFO: 0:0:0:0:0:0:0:1/favicon.ico |  404
+juil. 23, 2017 9:33:16 AM be.ipl.archpae.ihm.DispatcherServlet doPost
+INFO: 0:0:0:0:0:0:0:1/dispatch | {"action":["user/islogged"]} 200 => false
